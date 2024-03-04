@@ -21,3 +21,5 @@
 go.work
 
 /api-test
+
+*.db
